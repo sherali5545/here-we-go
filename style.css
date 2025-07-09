@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+
+
+}
+.bir{
+    color: white;
+    font-size:64px ;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.bom2{
+    background-color: white;
+    color: yellow;
+    background-color: brown;
+}
+.uio{
+    color: #010101;
+    font-size: 40px;
+}
+
+
+.star{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hum{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.humosh{
+    width: 300px;
+    height: 140px;
+    align-items: center;
+    justify-content:flex-start ;
+      
+}
+.kiromi{
+    background: #010101;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 23px;
+
+
+
+}
+.mainn{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+}
+.ikki{
+    background: #010101;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 23px;
+}
+.kolm{
+    color: white;
+    text-align: center;
+}
+.uch{
+    background: #010101;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 23px; 
+}
+.fore{
+    color: white;
+    text-align: center;
+}
+.tort{
+     background: #010101;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 23px; 
+}
+.bruno{
+    color: white;
+    text-align: center;
+
+}
+.bur{
+     color: white;
+    text-align: center;
+}
+.besh{
+    background: #010101;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 23px; 
+}
+.olti{
+     background: #010101;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 23px; 
+}
+.grmis{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
